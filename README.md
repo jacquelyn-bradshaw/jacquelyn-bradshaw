@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 
 <picture>
- <img alt="Profile Picture" src="(https://github.com/jacquelyn-bradshaw/jacquelyn-bradshaw/blob/main/20230531_103627.jpg
-)">
+ <img alt="Profile Picture" src="/blob/main/20230531_103627.jpg">
 </picture>
