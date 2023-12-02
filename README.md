@@ -1,21 +1,15 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**jacquelyn-bradshaw/jacquelyn-bradshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 I'm developing my skills to become an associate software engineer.
 
-Here are some ideas to get you started:
+💻 I have been learning to code in my spare time for the past year and a lot of my achievements can be found in my repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍👩‍👧‍👦 I am reconnecting with software engineering whilst looking after my young children.
 
+😺 I'm currently learning React on Udemy. I am also completing Data and JavaScript KickStarters with CFG and Python based MOOC challenges.
 
-<picture>
- <img alt="Profile Picture" src="20230531_103627.jpg" width="200">
-</picture>
+🤝 I am looking for opportunities to collaborate with others to gain experience of working in a tech team.
+
+👩‍🎓 I acheived a Maths and Computer Science Degree at Nottingham University in 2011 whilst competing as an international athlete.
+
+💖 I am a trustee for Storrs Road Pre School which is a charity providing education for 2-5 year olds.
