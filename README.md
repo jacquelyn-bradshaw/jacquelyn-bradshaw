@@ -1,4 +1,4 @@
-### Hi 👋
+## Hi 👋
 
 👋 I'm developing my skills to become an associate software engineer.
 
@@ -14,7 +14,7 @@
 
 💖 I am a trustee for Storrs Road Pre School which is a charity providing education for 2-5 year olds.
 
-#Experience and Education
+### Experience and Education
 👩‍🎓 Maths & Computer Science Degree - Nottingham University - 2011
 
 👩‍🏫 100 Days Of Code 2023 Web Development Bootcamp - Udemy -2023
