@@ -8,7 +8,7 @@
 
 😺 I'm currently learning React on Udemy. I am also completing Data and JavaScript KickStarters with CFG and Python based MOOC challenges.
 
-🤝 I am looking for opportunities to collaborate with others to gain experience of working in a tech team.
+🤝 I am looking for opportunities to collaborate with others to gain experience of working in a tech team. I have recently completed work experience at Sky Betting & Gaming.
 
 👩‍🎓 I acheived a Maths and Computer Science Degree at Nottingham University in 2011 whilst competing as an international athlete.
 
