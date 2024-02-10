@@ -14,6 +14,8 @@
 
 💖 I am a trustee for Storrs Road Pre School which is a charity providing education for 2-5 year olds.
 
+📚 I am currently reading The Software Engineer's Guidebook by Gergely Orosz.
+
 ### Experience and Education
 👩‍🎓 Maths & Computer Science Degree - Nottingham University - 2011
 
