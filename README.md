@@ -6,7 +6,7 @@
 
 👨‍👩‍👧‍👦 I am reconnecting with software engineering whilst looking after my young children.
 
-😺 I'm currently learning React on Udemy. I am also completing Data and JavaScript KickStarters with CFG and Python based MOOC challenges.
+😺 I'm currently learning React on Udemy. I have just completed Data and JavaScript KickStarters with CFG.
 
 🤝 I am looking for opportunities to collaborate with others to gain experience of working in a tech team. I have recently completed work experience at Sky Betting & Gaming.
 
@@ -22,6 +22,10 @@
 💻 Intro to Coding Mooc Challenge - CFG - October 2023
 
 💻 Intro to Web Development Mooc Challenge - CFG - November 2023
+
+💻 CVs and Applications Mooc Challenge - CFG - December 2023
+
+💻 Solving Problems with Python Mooc Challenge - CFG - December 2023
 
 🖥 Assessment Mooc Sprint - CFG - July 2023
 
@@ -44,3 +48,5 @@
 🖥 Machine Learning Mooc Sprint - CFG - Novemeber 2023
 
 🖥 Solving Problems with Python Mooc Sprint - CFG - November 2023
+
+🖥 Introduction to Data & SQL Kickstarter Course - CFG - February 2024
