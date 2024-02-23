@@ -21,34 +21,36 @@
 
 👩‍🏫 100 Days Of Code 2023 Web Development Bootcamp - Udemy -2023
 
-💻 Intro to Coding Mooc Challenge - CFG - October 2023
+👨‍👨‍👦‍👦 Introduction to Data & SQL Kickstarter Course - Code First Girls - February 2024
 
-💻 Intro to Web Development Mooc Challenge - CFG - November 2023
+👨‍👨‍👦‍👦 Introduction to JavaScript Kickstarter Course - Code First Girls - February 2024
 
-💻 CVs and Applications Mooc Challenge - CFG - December 2023
+💻 Intro to Coding Mooc Challenge - Code First Girls - October 2023
 
-💻 Solving Problems with Python Mooc Challenge - CFG - December 2023
+💻 Intro to Web Development Mooc Challenge - Code First Girls - November 2023
 
-🖥 Assessment Mooc Sprint - CFG - July 2023
+💻 CVs and Applications Mooc Challenge - Code First Girls - December 2023
 
-🖥 Devops Mooc Sprint - CFG - July 2023
+💻 Solving Problems with Python Mooc Challenge - Code First Girls - December 2023
 
-🖥 Intro to Python Mooc Sprint - CFG - July 2023
+🖥 Assessment Mooc Sprint - Code First Girls - July 2023
 
-🖥 Intro to Data Mooc Sprint - CFG - August 2023
+🖥 Devops Mooc Sprint - Code First Girls - July 2023
 
-🖥 Agile & Scrum Mooc Sprint - CFG - September 2023
+🖥 Intro to Python Mooc Sprint - Code First Girls - July 2023
 
-🖥 Intro to Coding Mooc Sprint - CFG - September 2023
+🖥 Intro to Data Mooc Sprint - Code First Girls - August 2023
 
-🖥 Intro to Web Development Mooc Sprint - CFG - October 2023
+🖥 Agile & Scrum Mooc Sprint - Code First Girls - September 2023
 
-🖥 CVs and Applications Mooc Sprint - CFG - November 2023
+🖥 Intro to Coding Mooc Sprint - Code First Girls - September 2023
 
-🖥 Intro to Web App Security Mooc Sprint - CFG - Novemeber 2023
+🖥 Intro to Web Development Mooc Sprint - Code First Girls - October 2023
 
-🖥 Machine Learning Mooc Sprint - CFG - Novemeber 2023
+🖥 CVs and Applications Mooc Sprint - Code First Girls - November 2023
 
-🖥 Solving Problems with Python Mooc Sprint - CFG - November 2023
+🖥 Intro to Web App Security Mooc Sprint - Code First Girls - Novemeber 2023
 
-🖥 Introduction to Data & SQL Kickstarter Course - CFG - February 2024
+🖥 Machine Learning Mooc Sprint - Code First Girls - Novemeber 2023
+
+🖥 Solving Problems with Python Mooc Sprint - Code First Girls - November 2023
