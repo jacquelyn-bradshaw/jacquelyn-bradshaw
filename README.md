@@ -4,7 +4,7 @@
 
 💻 I have been learning to code in my spare time and a lot of my achievements can be found in my repositories.
 
-👨‍👩‍👧‍👦 I am reconnecting with software engineering after looking after my young children.
+👨‍👩‍👧‍👦 I have reconnected with software engineering after looking after my young children.
 
 😺 I'm currently learning Next.js on Udemy.
 
